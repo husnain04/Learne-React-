@@ -1,4 +1,6 @@
 .outer{
     margin: 0;
     padding: 0;
+    background: blueviolet;
+    box-shadow: 9px;
 }
